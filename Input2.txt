@@ -1,0 +1,2 @@
+Hadoop, is a open source framework.
+It stores and process large datasets.

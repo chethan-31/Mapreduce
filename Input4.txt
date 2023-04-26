@@ -1,0 +1,2 @@
+This is a pyhton program which contains Threading builtin library it also used a built in open function to read the input data from the text file.
+
